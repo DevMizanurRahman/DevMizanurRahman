@@ -1,50 +1,32 @@
-### Hi there 👋, My name is Mizanur Rahman
-#### Professional Web Developer And WordPress Exert.
-![Professional Web Developer And WordPress Exert.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1 align="center">Hello, I'm Mizanur Rahman</h1>
+<h3 align="center">A Professional Web Designer Developer & WordPress Expert.</h3>
 
-Expert Web Developer and WordPress Specialist
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmizanurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="devmizanurrahman" /> </p>
 
-Welcome to my profile! I am professional Web Developer And WordPress Exert with a particular focus on WordPress. With a wealth of experience and a passion for crafting exceptional digital experiences, I bring forth a unique blend of creativity, technical prowess, and dedication to every project I undertake.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmizanurrahman" alt="devmizanurrahman" /></a> </p>
 
-What Sets Me Apart:
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Proficiency: Armed with extensive knowledge and expertise, I excel in creating dynamic websites and custom WordPress solutions tailored to meet the unique needs of each client.
+- 🔭 I’m currently working on [Freelancer](https://www.freelancer.com/u/devmizanur77)
 
-Innovation: I thrive on pushing boundaries and exploring new technologies to deliver cutting-edge solutions that elevate your online presence and drive results.
+- 🌱 I’m currently learning **PHP, JavaScript, MySQL,**
 
-Attention to Detail: Meticulous in my approach, I ensure that every aspect of your project is meticulously crafted, from pixel-perfect designs to flawless functionality.
+- 👯 I'm working more on [Fiverr](https://www.fiverr.com/devmizanurr?up_rollout=true)
 
-Client-Centric: Your satisfaction is my priority. I work closely with you, ensuring clear communication and transparency every step of the way to bring your vision to life.
+- 📫 How to reach me **https://www.linkedin.com/in/md-mizanur-rahman-80970a2bb/**
 
-Reliability: Timely delivery and reliability are non-negotiables for me. You can trust that your project will be completed on schedule and to the highest standards of quality.
+- 📄 Know about my experiences [https://www.linkedin.com/in/md-mizanur-rahman-80970a2bb/](https://www.linkedin.com/in/md-mizanur-rahman-80970a2bb/)
 
-Services Offered:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/md-mizanur-rahman-80970a2bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mizanur-rahman-80970a2bb/" height="30" width="40" /></a>
+</p>
 
-Custom Website Development
-WordPress Theme Customization
-Responsive Design
-E-commerce Solutions
-Website Maintenance and Support
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-Let's Collaborate:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmizanurrahman&show_icons=true&locale=en&layout=compact" alt="devmizanurrahman" /></p>
 
-Whether you're a small business looking to establish your online presence or a large enterprise seeking to revamp your website, I am here to help. Let's collaborate to turn your ideas into reality and create a digital presence that sets you apart from the competition.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmizanurrahman&show_icons=true&locale=en" alt="devmizanurrahman" /></p>
 
-Skills: HTML / CSS/ Javascript / REACT/ jQuery/ BOOTSTRAP/ MYSQL/ PHP/ WORDPRESS  DEVELOPER
-
-- 🔭 I’m currently working on Wabe design & Wabe development | WordPress design & development  
-- 🌱 I’m currently learning Javascript  
-- 👯 I’m looking to collaborate on GitHub  
-- 💬 Ask me about Wabe design & Wabe development | WordPress design & development  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DevMizanurRahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-mizanur-rahman-80970a2bb//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/people/MD-Mizanur-Rahman/pfbid0NTurqFYwduYneTzDC883aMFYfKbrhzFDQuay3F5GZS1jc9DukKrPe4t68JNEvuFzl/)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/DevMizanurRahman)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/DevMizanurRahman)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/DevMizanurRahman)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmizanurrahman&" alt="devmizanurrahman" /></p>
